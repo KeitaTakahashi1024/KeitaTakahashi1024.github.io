@@ -6,7 +6,7 @@ Maplat.createObject(option).then(function(app) {
   const viewpoint = {
     zoom: 3  //古地図倍率
   }
-  const ratio = 20;  //透明度
+  const ratio = 50;  //透明度
 
   window.setTimeout(function(){
     app.setViewpoint(viewpoint);

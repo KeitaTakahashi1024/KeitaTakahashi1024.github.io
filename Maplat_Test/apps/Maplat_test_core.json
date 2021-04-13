@@ -1,11 +1,11 @@
 ﻿{
-  "home_position": [140.75680304835672, 41.79692727057318],
+  "home_position": [140.70477517707417, 41.760604777007366],
   "default_zoom": 17,
   "start_from": "goryokaku",
   "sources": [
     {
       "mapID": "goryokaku",
-      "label": "五稜郭三分十間図"
+      "label": "明治11年の古地図"
     },
     "osm"
   ]
