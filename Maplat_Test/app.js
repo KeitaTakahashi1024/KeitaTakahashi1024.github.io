@@ -1,4 +1,7 @@
-﻿var option = {
+﻿import "./dist/maplat_core.js";
+import "./dist/maplat_core.css";
+
+var option = {
   appid: "Maplat_test_core",
 };
 

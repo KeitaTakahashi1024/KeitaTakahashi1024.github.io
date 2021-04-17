@@ -1,6 +1,5 @@
-/*! @maplat/core v0.6.2 | Kohei Otsuka, Code for History | license: Apache 2.0 */ !(function (
-  t
-) {
+/*! @maplat/core v0.6.2 | Kohei Otsuka, Code for History | license: Apache 2.0 */
+!(function (t) {
   var e = {};
   function n(i) {
     if (e[i]) return e[i].exports;
