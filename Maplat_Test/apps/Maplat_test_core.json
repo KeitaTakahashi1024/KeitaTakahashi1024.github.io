@@ -1,10 +1,10 @@
 ﻿{
   "home_position": [140.70477517707417, 41.760604777007366],
   "default_zoom": 17,
-  "start_from": "goryokaku",
+  "start_from": "hakodate_1878",
   "sources": [
     {
-      "mapID": "goryokaku",
+      "mapID": "hakodate_1878",
       "label": "明治11年の古地図"
     },
     "osm"

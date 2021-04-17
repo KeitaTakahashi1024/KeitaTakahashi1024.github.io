@@ -6,7 +6,7 @@ Maplat.createObject(option).then(function(app) {
   const viewpoint = {
     zoom: 3  //古地図倍率
   }
-  const ratio = 50;  //透明度
+  const ratio = 20;  //透明度
 
   window.setTimeout(function(){
     app.setViewpoint(viewpoint);
@@ -17,7 +17,7 @@ Maplat.createObject(option).then(function(app) {
   document.getElementById("osm").addEventListener("click", function(e) {
     app.changeMap("osm");
   });
-  document.getElementById("kochizu").addEventListener("click", function(e) {
-    app.changeMap("goryokaku");
+  document.getElementById("hakodate_1878").addEventListener("click", function(e) {
+    app.changeMap("hakodate_1878");
   });
 });
