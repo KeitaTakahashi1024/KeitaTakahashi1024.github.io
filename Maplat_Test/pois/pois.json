@@ -1,0 +1,14 @@
+{
+    "main": {
+      "pois": [
+        {
+          "id": "park",
+          "lat": 41.7563506,
+          "lng": 140.7158338,
+          "name": "函館公園",
+          "icon": "assets/images/9ac6d81f417d6a5626b7c8d5a087c32b.png",
+          "selected_icon": "assets/images/f115726e6249018905cca51653e1262c.png"
+        }
+      ]
+    }
+  }
