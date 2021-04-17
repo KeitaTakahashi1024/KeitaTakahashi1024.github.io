@@ -8,5 +8,6 @@
       "label": "明治11年の古地図"
     },
     "osm"
-  ]
+  ],
+  "pois": "pois/pois.json"
 }
